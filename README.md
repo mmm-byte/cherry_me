@@ -1,6 +1,6 @@
-# Cherry Me - Rush Assignments
+# Cherry Me
 
-This project contains 5 rush assignments that display squares on the terminal using character-based graphics.
+This project contains 5 assignments that display squares on the terminal using character-based graphics.
 
 ## Project Structure
 
