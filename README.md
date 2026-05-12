@@ -6,14 +6,12 @@ This project contains 5 rush assignments that display squares on the terminal us
 
 ```
 cherry_me/
-├── rush.py              # Universal redirector for all assignments
 ├── rush1-1.py           # Redirector for assignment 1
 ├── rush1-2.py           # Redirector for assignment 2
 ├── rush1-3.py           # Redirector for assignment 3
 ├── rush1-4.py           # Redirector for assignment 4
 ├── rush1-5.py           # Redirector for assignment 5
 ├── README.md            # This file
-└── pyTechTest.pdf       # Assignment specifications
 ```
 
 ## How to Run
